@@ -1,0 +1,7 @@
+
+trip_id,route,scheduled_minute,actual_minute,on_time
+T01,A,480,483,1
+T02,A,490,498,0
+T03,B,500,504,1
+T04,B,510,510,1
+T05,B,520,529,0
